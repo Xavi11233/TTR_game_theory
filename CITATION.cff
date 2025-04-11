@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Ticket to Ride Europe game theory
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Xavier
+    family-names: Austin
+repository-code: 'https://github.com/Xavi11233/TTR_game_theory.git'
+url: 'https://github.com/Xavi11233/TTR_game_theory'
+abstract: >-
+  This code gives some starting points to analysis of
+  various strategies in the popular board game Ticket to
+  Ride: Europe, and how they interact against each other in
+  a two player game.
+keywords:
+  - Game Theory
+date-released: '2025-04-11'
